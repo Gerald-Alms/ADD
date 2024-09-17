@@ -1,0 +1,15 @@
+c:\Users\gerar\OneDrive\Escritorio\ADD\P1\bin\Debug\net8.0\P1.exe
+c:\Users\gerar\OneDrive\Escritorio\ADD\P1\bin\Debug\net8.0\P1.deps.json
+c:\Users\gerar\OneDrive\Escritorio\ADD\P1\bin\Debug\net8.0\P1.runtimeconfig.json
+c:\Users\gerar\OneDrive\Escritorio\ADD\P1\bin\Debug\net8.0\P1.dll
+c:\Users\gerar\OneDrive\Escritorio\ADD\P1\bin\Debug\net8.0\P1.pdb
+c:\Users\gerar\OneDrive\Escritorio\ADD\P1\obj\Debug\net8.0\P1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\gerar\OneDrive\Escritorio\ADD\P1\obj\Debug\net8.0\P1.AssemblyInfoInputs.cache
+c:\Users\gerar\OneDrive\Escritorio\ADD\P1\obj\Debug\net8.0\P1.AssemblyInfo.cs
+c:\Users\gerar\OneDrive\Escritorio\ADD\P1\obj\Debug\net8.0\P1.csproj.CoreCompileInputs.cache
+c:\Users\gerar\OneDrive\Escritorio\ADD\P1\obj\Debug\net8.0\P1.sourcelink.json
+c:\Users\gerar\OneDrive\Escritorio\ADD\P1\obj\Debug\net8.0\P1.dll
+c:\Users\gerar\OneDrive\Escritorio\ADD\P1\obj\Debug\net8.0\refint\P1.dll
+c:\Users\gerar\OneDrive\Escritorio\ADD\P1\obj\Debug\net8.0\P1.pdb
+c:\Users\gerar\OneDrive\Escritorio\ADD\P1\obj\Debug\net8.0\P1.genruntimeconfig.cache
+c:\Users\gerar\OneDrive\Escritorio\ADD\P1\obj\Debug\net8.0\ref\P1.dll
