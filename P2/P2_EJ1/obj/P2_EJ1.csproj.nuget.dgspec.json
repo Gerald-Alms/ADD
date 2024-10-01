@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gerar\\OneDrive\\Escritorio\\ADD\\P1\\P1.csproj": {}
+    "C:\\Users\\gerar\\OneDrive\\Escritorio\\ADD\\P2\\P2_EJ1\\P2_EJ1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gerar\\OneDrive\\Escritorio\\ADD\\P1\\P1.csproj": {
+    "C:\\Users\\gerar\\OneDrive\\Escritorio\\ADD\\P2\\P2_EJ1\\P2_EJ1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gerar\\OneDrive\\Escritorio\\ADD\\P1\\P1.csproj",
-        "projectName": "P1",
-        "projectPath": "C:\\Users\\gerar\\OneDrive\\Escritorio\\ADD\\P1\\P1.csproj",
+        "projectUniqueName": "C:\\Users\\gerar\\OneDrive\\Escritorio\\ADD\\P2\\P2_EJ1\\P2_EJ1.csproj",
+        "projectName": "P2_EJ1",
+        "projectPath": "C:\\Users\\gerar\\OneDrive\\Escritorio\\ADD\\P2\\P2_EJ1\\P2_EJ1.csproj",
         "packagesPath": "C:\\Users\\gerar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gerar\\OneDrive\\Escritorio\\ADD\\P1\\obj\\",
+        "outputPath": "C:\\Users\\gerar\\OneDrive\\Escritorio\\ADD\\P2\\P2_EJ1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gerar\\AppData\\Roaming\\NuGet\\NuGet.Config"
